@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+//this react basically refers to the react of the node_modules.
 //creating an element is the core thing of the react.That;s why we are using React.createElement()
 //React.createElement accepts the three arguments 1->What we want to create, 2-> Object 3-> what will be inside the element.
 //the empty object is the place where we give attributes to the tags.
@@ -11,13 +14,13 @@ const parent = React.createElement(
     ])
 );
 //This above code will look like
-{
+
     /* <div id="parent">
     <div id="child">
         <h1>I am h1 tag</h1>
     </div>
 </div> */
-}
+
 //When we have to make siblings then we can pass the array containing the tags or elements in the 3rd argument of createElement.
 
 // const heading = React.createElement(
