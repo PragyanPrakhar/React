@@ -19,7 +19,7 @@ const HeadingComponent = () => (
         {/* <h2>{100+200}</h2>   we can also put js code into the jsx */}
 
         {/* //if we want to simply write js code inside the component then we will simply write into the curly braces */}
-        {/* The below three codes of Title is same. */}
+        {/* The below three codes of Title is same.   */}
         {/* {Title()} */}
         {/* <Title></Title> */}
         <Title/>
