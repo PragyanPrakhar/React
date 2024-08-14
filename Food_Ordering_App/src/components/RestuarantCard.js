@@ -2,7 +2,7 @@ import { FOODIMAGE_URL } from "../utils/constants";
 import { CLOUDINARY_URL } from "../utils/constants";
 const RestuarantCard = (props) => {
     const { name, cuisines, avgRating, cloudinaryImageId } = props.resData.info;
-    console.log(name, cuisines, avgRating);
+    // console.log(name, cuisines, avgRating);
     return (
         <div className="res-card" >
             <img

@@ -16,6 +16,6 @@ Food Ordering App:-
     - Links
     - Address
     - Contact
+x
 
-
-    -> I hour 38 minutes completed
+Completed till 2 hours.(Episode 7)
